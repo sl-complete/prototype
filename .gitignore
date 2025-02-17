@@ -1,0 +1,5 @@
+*.pyc
+prototype/lib/*
+prototype/bin/*
+prototype/include/*
+__pycache__/*
